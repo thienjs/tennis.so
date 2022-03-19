@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className="flex h-screen bg-black">
       <Head>
-        <title>Platforms on Vercel</title>
+        <title>Tennis Social</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
