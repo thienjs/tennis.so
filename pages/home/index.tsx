@@ -6,6 +6,7 @@ export default function Home() {
     <div className="flex h-screen bg-black">
       <Head>
         <title>Tennis Social</title>
+        <h1>meet, chat, learn, play with other tennis players.</h1>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
