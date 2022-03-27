@@ -82,7 +82,7 @@ export default function AppIndex() {
           }}
           className="inline-block w-full max-w-md pt-8 overflow-hidden text-center align-middle transition-all bg-white shadow-xl rounded-lg"
         >
-          <h2 className="font-cal text-2xl mb-6">Create a New Site</h2>
+          <h2 className="font-cal text-2xl mb-6">Create a New Profile</h2>
           <div className="grid gap-y-5 w-5/6 mx-auto">
             <div className="border border-gray-700 rounded-lg flex flex-start items-center">
               <span className="pl-5 pr-1">📌</span>
