@@ -107,7 +107,7 @@ export default function SiteIndex() {
                           target="_blank"
                           className="font-cal px-3 py-1 tracking-wide rounded bg-gray-200 text-gray-600 absolute bottom-5 left-10 whitespace-nowrap"
                         >
-                          {data.site?.subdomain}.vercel.pub/{post.slug} ↗
+                          {data.site?.subdomain}.tennis.so/{post.slug} ↗
                         </a>
                       </div>
                     </div>
