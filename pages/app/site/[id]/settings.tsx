@@ -193,7 +193,7 @@ export default function SiteSettings() {
         }}
       />
       <div className="max-w-screen-xl mx-auto px-10 sm:px-20 mt-20 mb-16">
-        <h1 className="font-cal text-5xl mb-12">Site Settings</h1>
+        <h1 className="font-cal text-5xl mb-12">Profile Settings</h1>
         <div className="mb-28 flex flex-col space-y-12">
           <div className="flex flex-col space-y-6">
             <h2 className="font-cal text-2xl">Site Name</h2>
